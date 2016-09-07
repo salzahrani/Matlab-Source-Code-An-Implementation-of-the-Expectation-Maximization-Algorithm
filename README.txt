@@ -11,7 +11,7 @@ dataset file,r (number of iteration select 2 for simplicity), and k (number of c
  
 To run EM
 Run the script_EM.m KMEAN, and it will simply ask you to select
-the dataset, initialization strategy (random/kmean), r, and k.
+the dataset, initialization strategy (random/kmeans), r, and k.
 
 All plots in the report along with numeric results will pop up for you...
 
