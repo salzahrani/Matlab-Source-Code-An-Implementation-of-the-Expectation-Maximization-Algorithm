@@ -10,12 +10,12 @@ just run the script_KMEAN.m , and it will simply ask you to select the
 dataset file,r (number of iteration select 2 for simplicity), and k (number of classes).
  
 To run EM
-just run the script_EM.m KMEAN, and it will simply ask you to select
+Run the script_EM.m KMEAN, and it will simply ask you to select
 the dataset, initialization strategy (random/kmean), r, and k.
 
 All plots in the report along with numeric results will pop up for you...
 
-To contact me:
+You could reach me out by e-mail
 
 ssalzahr@asu.edu
 
