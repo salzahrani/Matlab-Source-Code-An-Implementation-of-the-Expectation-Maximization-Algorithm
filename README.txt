@@ -5,7 +5,7 @@ Author: SULTAN ALZAHRNAI ssalzahr@asu.edu
 To run the code you just need to change local directory to the Matlab 
 included in this solution.
 
-To run Kmean
+To run K-means
 just run the script_KMEAN.m , and it will simply ask you to select the
 dataset file,r (number of iteration select 2 for simplicity), and k (number of classes).
  
